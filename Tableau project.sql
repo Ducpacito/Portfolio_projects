@@ -1,9 +1,8 @@
+Tableau dashboard: https://public.tableau.com/views/Onlineretailsales/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+link to the dataset: https://www.kaggle.com/tunguz/online-retail 
+
 -- Queries used for Tableau Project --
-
--- link to the dataset: https://www.kaggle.com/tunguz/online-retail 
-
--- Tableau dashboard: https://public.tableau.com/views/Onlineretailsales/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 
 --standardize InvoiceDate Format
 SELECT
